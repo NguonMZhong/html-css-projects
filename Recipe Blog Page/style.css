@@ -1,0 +1,41 @@
+html {
+    font-size: 60.5%;
+}
+
+body {
+    color: rgb(22, 20, 20);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.8rem;
+    padding: 2rem;
+}
+
+h1,h2,h3 {
+    color: rgb(14, 13, 13);
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    font-size: 3.61rem;
+  }
+  
+  h2 {
+    font-size: 3.209rem;
+  }
+  
+  h3 {
+    font-size: 3.157rem;
+  }
+  
+  img {
+    width: 100%;
+  }
+  
+  ol li {
+    margin-bottom: 2rem;
+  }
+
+  .container {
+    max-width: 1140px;
+    margin: 0 auto;
+  }
+
